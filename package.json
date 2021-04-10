@@ -1,0 +1,33 @@
+{
+    "name": "bariton",
+    "version": "1.6.0",
+    "description": "Bariton - React Next IT & Machine Learning Template",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next -p 3002",
+        "build": "next build",
+        "start": "next start",
+        "export": "next export"
+    },
+    "author": "EnvyTheme.com",
+    "license": "ISC",
+    "dependencies": {
+        "@sendgrid/mail": "^7.4.2",
+        "axios": "^0.21.1",
+        "next": "^10.0.5",
+        "react": "^16.14.0",
+        "react-accessible-accordion": "^3.3.3",
+        "react-dom": "^16.14.0",
+        "react-ga": "^3.3.0",
+        "react-google-recaptcha-v3": "^1.7.1",
+        "react-hook-form": "^6.14.1",
+        "react-image-lightbox": "^5.1.1",
+        "react-modal-video": "^1.2.6",
+        "react-owl-carousel3": "^2.2.5",
+        "react-wow": "^1.0.0",
+        "sass": "^1.32.2",
+        "sweetalert2": "^10.13.0",
+        "sweetalert2-react-content": "^3.2.2",
+        "swiper": "^6.5.6"
+    }
+}
